@@ -1,1 +1,1 @@
-Baca aku
+Nextjs Project Static
